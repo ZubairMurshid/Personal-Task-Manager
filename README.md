@@ -26,16 +26,10 @@ Personal-Task-Manager/
 ├── Stage_4_GUI_TaskManager.py  # Stage 4: Tkinter GUI with OOP
 │
 ├── mytasks.txt         # Text-based task storage for Stage 1–2
-├── tasks.json          # JSON-based task data for Stage 3
+├── tasks.txt          # Text file storing data in JSON format for Stage 03
 │
-├── report/
-│ ├── Report.pdf        # Coursework documentation
-│ └── test_cases/       # Test screenshots or outputs
-│
-├── assets/
-│ └── screenshots/      # GUI screenshots
-│
-├── requirements.txt
+├──  Report.pdf        # Coursework documentation
+│ 
 └── LICENSE
 ````
 
@@ -52,7 +46,7 @@ Personal-Task-Manager/
 ### **Stage 3 – Dictionaries & JSON**
 
   * Refines the data structure by converting list-based storage into a **dictionary-based model**.
-  * Implements robust data saving and loading using the **JSON** format (`tasks.json`).
+  * Implements robust data saving and loading using the **JSON** format (`tasks.txt`).
   * Enhances data integrity and error handling.
 
 ### **Stage 4 – Tkinter GUI (Classes & Objects)**
@@ -127,4 +121,5 @@ This project is released under the **MIT License** (see `LICENSE` file for detai
 **GitHub:** https://github.com/ZubairMurshid
 
 ```
+
 ```
